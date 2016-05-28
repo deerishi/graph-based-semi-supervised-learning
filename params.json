@@ -1,0 +1,6 @@
+{
+  "name": "Graph-based-semi-supervised-learning",
+  "tagline": "Graph construction of a dataset, Semi Supervised Learning, Label Propogation, Mahalanobis Distance",
+  "body": "This project explores the different techniques (both scalable and non scalable) for Graph based semi supervised learning. Recent techniques such as ITML and LMNN along with a few others are empirically evaluated on the 20 newsgroups dataset.\r\n![](https://github.com/deerishi/graph-based-semi-supervised-learning/blob/master/graph.png?raw=True)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
